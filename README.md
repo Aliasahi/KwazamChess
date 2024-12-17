@@ -2,7 +2,7 @@
 Assignment for Semester 4 
 
 ## Current file explanation
-1. Board [Board.java] is for the board size and literally how the board supposed to look like
+1. Board [#KwazamChess/src/boardgame/Board.java] is for the board size and literally how the board supposed to look like
 2. Game [Game.java] is for testing the logic after work on the code, not really important after adding gui, you may also change to work on for your pieces logic
 - you may use this run the file:
 ```
